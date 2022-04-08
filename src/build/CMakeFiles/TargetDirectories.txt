@@ -1,0 +1,3 @@
+/Users/mike_lekas/google_drive/personal_projects/time_tracking_tool/src/build/CMakeFiles/hello.dir
+/Users/mike_lekas/google_drive/personal_projects/time_tracking_tool/src/build/CMakeFiles/edit_cache.dir
+/Users/mike_lekas/google_drive/personal_projects/time_tracking_tool/src/build/CMakeFiles/rebuild_cache.dir
